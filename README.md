@@ -2,8 +2,8 @@
 
 ## 신규 홈페이지
 
-URL : brand.oyori.asia
-URL : oyori.asia
+- URL : brand.oyori.asia
+- URL : oyori.asia
 
 ## 홈페이지 운영 및 수정
 
