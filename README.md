@@ -1,7 +1,8 @@
-# brand-home
+# brand-home 2022
 
 ## 신규 홈페이지
 
+- 2022년 7월 6일 홈페이지를 리뉴얼했다.
 - https://oyori.asia
 
 ## 홈페이지 운영 및 수정
