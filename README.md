@@ -10,4 +10,4 @@
 
 ## 홈페이지-legacy
 
-- URL : http//legacy.oyori.asia
+- http://legacy.oyori.asia
